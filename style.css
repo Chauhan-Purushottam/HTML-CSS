@@ -26,6 +26,7 @@ nav ul li
 	display: inline-block;
 	color: red;
 	padding: 15px;
+	cursor: pointer;
 }
 .home
 {
@@ -44,13 +45,23 @@ nav ul li
 }
 .fullimg
 {
-	background-image: url("../image/img1.jpg");
+	background-image: url("../image/bg.jpg");
 	background-size: cover;
 	width: 100%;
 	height: 800px;
 	background-repeat: no-repeat;
 	
 }
+.fullimg1
+{
+	background-image: url("../image/abg.jpeg");
+	background-size: cover;
+	width: 100%;
+	height: 800px;
+	background-repeat: no-repeat;
+	
+}
+
 .homesub
 {
 	font-family: 'Raleway', sans-serif;
